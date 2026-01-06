@@ -49,4 +49,4 @@ This project focuses on **clean architecture**, **readable code**, and **scalabl
 - 🧰 Framework: **.NET**
 - 🖥️ IDE: **Visual Studio**
 
-![Dashboard](images/dashboard.png)
+![project]([images/dashboard.png](https://www.freepik.com/free-photos-vectors/school-system))
