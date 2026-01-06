@@ -49,4 +49,3 @@ This project focuses on **clean architecture**, **readable code**, and **scalabl
 - 🧰 Framework: **.NET**
 - 🖥️ IDE: **Visual Studio**
 
-![project](["C:\Users\NV\Desktop\System_University\University\Image\University.png")
