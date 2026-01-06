@@ -49,7 +49,4 @@ This project focuses on **clean architecture**, **readable code**, and **scalabl
 - 🧰 Framework: **.NET**
 - 🖥️ IDE: **Visual Studio**
 
----
-
-## 📂 Project Structure
-
+![Dashboard](images/dashboard.png)
